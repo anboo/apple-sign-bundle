@@ -1,0 +1,3 @@
+services:
+  Anboo\AppleSign\ASDecoder:
+    public: true
