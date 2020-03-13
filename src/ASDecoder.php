@@ -2,8 +2,8 @@
 
 namespace Anboo\AppleSign;
 
-use Firebase\JWT\JWT;
-use Firebase\JWT\JWK;
+use Anboo\Firebase\JWT\JWT;
+use Anboo\Firebase\JWT\JWK;
 use Symfony\Component\DependencyInjection\Container;
 
 class ASDecoder
